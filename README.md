@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the source code for R Shiny application hosted at [slathwal.shinyapps.io/PDAC-app](slathwal.shinyapps.io/PDAC-app). The app contains analysis of pancreatic cancer data from the Cancer Genome Atlas (TCGA).
+This repository contains the source code for R Shiny application hosted at [slathwal.shinyapps.io/PDAC-app](https://slathwal.shinyapps.io/pdac-app/). The app contains analysis of pancreatic cancer data from the Cancer Genome Atlas (TCGA).
 
 ## Why was the application created?
 The application was created to play with some of the new R packages and to keep my skills up-to-date while on a break. Some interesting packages used in the app are as follows:
