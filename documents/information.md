@@ -8,10 +8,10 @@ This page presents summary statistics of key demographic variables in the study 
 ## Censoring Plot
 This page shows the censor status of each subject, broken down by gender. A subject is said to be censored at a particular time if they do not show the event of interest by a given time and are not followed further in the study.
 
-## Kaplan Meier plot for survival
+## Kaplan Meier Plot for Survival
 This page shows the Kaplan Meier survival curves for subjects in the study. The page includes a dropdown that can be used to select variables. When a variable is selected, the survival curves are split by the values of the selected variable and a table containing p-values for pariwise log-rank test between all the values of the selected variable is shown.
 
-## Principal Component Analysis
+## Principal Components Analysis
 This page shows the first and second principal components of the proteomics data on the subjects. The page contains a dropdown that can be used to select variables to colour the subjects by available metadata.
 
 ## Tumor Purity Analysis

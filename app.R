@@ -101,7 +101,7 @@ ui <- fluidPage(
       #textOutput(outputId = "survival_text")
     )),
     nav_panel(
-      title = "Principal Component Analysis",
+      title = "Principal Components Analysis",
       layout_sidebar(
         # Insert sidebar for coloring PCA plot
         sidebar = sidebar(
@@ -123,7 +123,7 @@ ui <- fluidPage(
             column(width = 8, offset =2, uiOutput(outputId = "text_radial"))
           ),
           nav_panel(
-            title = "Distributions of Molecular clusters and sample purity",
+            title = "Sample purity for different molecular classifications",
             layout_column_wrap(
               card(plotOutput(outputId = "purity_bailey_clusters"),
                    textOutput(outputId = "text_bailey")),
